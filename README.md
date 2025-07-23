@@ -19,15 +19,19 @@ git clone https://github.com/Smialku/Empirical-Analysis-Forecasting-Cryptocurren
 cd Empirical-Analysis-Forecasting-Cryptocurrencies
 
 2. (Optional) Create and activate virtual environment
+
 python -m venv venv
 source venv/bin/activate       # On Windows use: venv\Scripts\activate
 
 3. Install dependencies
+
 pip install -r requirements.txt
 
 4. Run the Dash app
+
 python dashapp.py
 
 5. Open the app in your browser:
+
 Go to http://127.0.0.1:8050
 
