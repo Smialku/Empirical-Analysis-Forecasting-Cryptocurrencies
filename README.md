@@ -17,6 +17,7 @@ This repository contains Python scripts and data files for analyzing and forecas
 1. Clone the repository
 
 git clone https://github.com/Smialku/Empirical-Analysis-Forecasting-Cryptocurrencies.git
+
 cd Empirical-Analysis-Forecasting-Cryptocurrencies
 
 2. (Optional) Create and activate virtual environment
