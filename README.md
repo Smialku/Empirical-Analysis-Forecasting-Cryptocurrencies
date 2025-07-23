@@ -13,3 +13,21 @@ This repository contains Python scripts and data files for analyzing and forecas
 
 ## Usage
 
+
+# Clone the repository
+git clone https://github.com/Smialku/Empirical-Analysis-Forecasting-Cryptocurrencies.git
+cd Empirical-Analysis-Forecasting-Cryptocurrencies
+
+# (Optional) Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate       # On Windows use: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Dash app
+python dashapp.py
+
+Open the app in your browser:
+Go to http://127.0.0.1:8050
+
